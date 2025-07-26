@@ -14,9 +14,9 @@ A rule-based chatbot built using Python and basic NLP concepts. This project was
 - JSON
 
 ## 📁 Files
-- `chatbot.py`: Main Python file to run the chatbot
-- `intents.json`: Contains intents, patterns, and responses
-- `README.md`: Project overview
+-  `chatbot.py`: Main Python file to run the chatbot
+-  `intents.json`: Contains intents, patterns, and responses
+-  `README.md`: Project overview
 
 ## 🧪 How to Run
 1. Make sure you have Python 3 installed.
@@ -28,9 +28,7 @@ Run the chatbot:
 python chatbot.py
 
 💬 Sample Interaction
-vbnet
-Copy
-Edit
+
 You: hi
 🤖 DeivaBot: Hello! How can I help you today?
 
@@ -39,6 +37,18 @@ You: what's up?
 
 You: quit
 🤖 DeivaBot: Bye, take care!
+
+## 🚀 Future Improvements
+- Add a web interface using Flask or Streamlit
+- Integrate a transformer model like BERT for better understanding
+- Train the bot on real-world conversations
+
+## 📚 What I Learned
+- Basics of natural language processing using NLTK
+- Using cosine similarity for intent matching
+- Building a rule-based chatbot in Python
+
+
 
 ✨ Author
 Deiva Lakshmee
