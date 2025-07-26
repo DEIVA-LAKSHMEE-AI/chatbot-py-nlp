@@ -23,11 +23,8 @@ A rule-based chatbot built using Python and basic NLP concepts. This project was
 2. Install the required libraries:
    ```bash
    pip install nltk scikit-learn
-Run the chatbot:
 
-bash
-Copy
-Edit
+Run the chatbot:
 python chatbot.py
 
 💬 Sample Interaction
